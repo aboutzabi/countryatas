@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Email Us",
+      "icon": "AiOutlineMail",
+      "details": "support@xyz.com"
+    },
+    {
+      "id": 2,
+      "title": "Call Us",
+      "icon": "AiOutlinePhone",
+      "details": "+123 456 7890"
+    },
+    {
+      "id": 3,
+      "title": "Find Us",
+      "icon": "AiOutlineEnvironment",
+      "details": "123 Main St"
+    }
+  ]
+  

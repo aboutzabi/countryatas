@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "country": "Japan 🇯🇵",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "fact": "Japan is a leader in robotics and cutting-edge technology, exporting innovations worldwide."
+    },
+    {
+      "id": 2,
+      "country": "Brazil 🇧🇷",
+      "capital": "Brasília",
+      "population": 214300000,
+      "fact": "Brazil is renowned for its vibrant culture, hosting the world-famous Carnival festival."
+    },
+    {
+      "id": 3,
+      "country": "Canada 🇨🇦",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "fact": "Canada is known for its stunning natural landscapes, including national parks like Banff and Jasper."
+    },
+    {
+      "id": 4,
+      "country": "India 🇮🇳",
+      "capital": "New Delhi",
+      "population": 1417000000,
+      "fact": "India is the world's largest democracy and a hub for software development and innovation."
+    },
+    {
+      "id": 5,
+      "country": "Australia 🇦🇺",
+      "capital": "Canberra",
+      "population": 26000000,
+      "fact": "Australia is famous for its unique wildlife, including kangaroos and koalas, and its Great Barrier Reef."
+    },
+    {
+      "id": 6,
+      "country": "Germany 🇩🇪",
+      "capital": "Berlin",
+      "population": 83000000,
+      "fact": "Germany is an economic powerhouse, leading the European Union in innovation and industry."
+    },
+    {
+      "id": 7,
+      "country": "South Africa 🇿🇦",
+      "capital": "Pretoria",
+      "population": 60000000,
+      "fact": "South Africa is celebrated for its rich biodiversity and iconic landmarks like Table Mountain."
+    },
+    {
+      "id": 8,
+      "country": "Italy 🇮🇹",
+      "capital": "Rome",
+      "population": 59000000,
+      "fact": "Italy is the birthplace of the Renaissance and home to UNESCO World Heritage Sites."
+    },
+    {
+      "id": 9,
+      "country": "Russia 🇷🇺",
+      "capital": "Moscow",
+      "population": 143400000,
+      "fact": "Russia is famous for its rich literary and artistic heritage, producing renowned authors and composers."
+    },
+    {
+      "id": 10,
+      "country": "Pakistan 🇵🇰",
+      "capital": "Islamabad",
+      "population": 240000000,
+      "fact": "Pakistan is known for its breathtaking landscapes, including the Hunza Valley and historical sites."
+    }
+  ]
+  
